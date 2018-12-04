@@ -1,0 +1,8 @@
+name: FixPlotSquared
+author: ConnorChickenway
+version: 1.0
+softdepend: [PlotSquared]
+main: mx.connorchickenway.fix.FixPlotSquared
+commands:
+  fixplotsquared: 
+
